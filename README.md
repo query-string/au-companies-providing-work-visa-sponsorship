@@ -24,6 +24,7 @@ A searchable sort-able and group-able version of the list of companies below is 
 - [Aiven](https://aiven.io/careers) | Sydney CBD, Sydney | Python, PostgreSQL, MySQL, Elasticsearch, Cassandra, Grafana, InfluxDB, Redis, Kafka
 - [Atlassian](https://www.atlassian.com/company/careers/sydney) | Sydney CBD, Sydney | Java, NodeJs, JavaScript, React
 - [BigCommerce](https://www.bigcommerce.com/careers/) | Sydney CBD, Sydney |  Ruby, PHP, JavaScript, Puppet
+- [Bluethumb](https://tech.bluet.hm/senior-software-engineer-ruby-on-rails) | Adelaide/Melbourne | Ruby, Rails
 - [Brighte](https://brighte.com.au/careers/) | Sydney CBD, Sydney | PHP, MYSQL, JavaScript, AWS
 - [Canva](https://www.canva.com/careers/) | Sydney CBD, Sydney | Java, JavaScript, NodeJs, React, Typescript
 - [ClipChamp](https://clipchamp.com/en/work-with-us/) | Fortitude Valley, Brisbane | JavaScript, Typescript, Angular, React, Python, C
